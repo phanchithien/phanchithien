@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My name is Thien Phan.
+- I am a software engineer.
+- I live in Ho Chi Minh City in Vietnam.
+
+
 <!--
 **phanchithien/phanchithien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
